@@ -1,2 +1,0 @@
-# ssmp-demo
-springboot-demo
